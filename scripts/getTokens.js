@@ -1,8 +1,6 @@
 const fs = require('fs')
 const abi = require('../abi/bridgeAbi.json')
 const hre = require('hardhat')
-const { count } = require('console')
-const { json } = require('hardhat/internal/core/params/argumentTypes')
 const tokenAbi = require('@openzeppelin/contracts/build/contracts/ERC20.json').abi
 
 
