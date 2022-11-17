@@ -77,5 +77,5 @@ The genesis validators are also stored in the `genesis-validators.json` file.
 
 ### Network: Goerli
 
-<a href='https://goerli.etherscan.io/address/0x42e9941432A29899d838464017c9ceB624dBb14E'>ERC20 Contract Address:</a> `0x42e9941432A29899d838464017c9ceB624dBb14E`
-<a href='https://goerli.etherscan.io/address/0x244C70b50476Eb1C175C93939145782ff3D426C4'>ERC721 Contract Address:</a> `0x244C70b50476Eb1C175C93939145782ff3D426C4`
+- ERC20 Contract Address: <a href='https://goerli.etherscan.io/address/0x42e9941432A29899d838464017c9ceB624dBb14E'>`0x42e9941432A29899d838464017c9ceB624dBb14E`</a>
+- ERC721 Contract Address: <a href='https://goerli.etherscan.io/address/0x244C70b50476Eb1C175C93939145782ff3D426C4'> `0x244C70b50476Eb1C175C93939145782ff3D426C4` </a>
