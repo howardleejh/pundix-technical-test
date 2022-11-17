@@ -1,8 +1,4 @@
-<h3 align="center">Pundi X Technical Test</h3>
-
-  <p align="center">
-    Pundi X technical test
-  </p>
+<h1 align="center">Pundi X Technical Test</h1>
 
 <!-- ABOUT THE PROJECT -->
 
@@ -14,7 +10,7 @@ This is a github repo that stores the Pundi X technical test.
 
 ### Prerequisites
 
-If you do not have npm, please install the latest stable version of npm
+If you do not have npm, please install the latest stable version of npm:
 
 ```sh
 npm install npm@latest -g
@@ -30,7 +26,7 @@ npm install npm@latest -g
    ```sh
    npm install
    ```
-3. create a `.env` file with
+3. create a new `.env` file with
    ```sh
    touch .env
    ```
@@ -56,7 +52,6 @@ hh run scripts/getTokens.js
 ```
 
 Note that the data will be stored in the `fx-bridge-token-supply.json` file.
-<br />
 
 ### To display tokens information, enter:
 
@@ -77,3 +72,9 @@ curl -X POST https://fx-json.functionx.io:26657 -d "{\"jsonrpc\":\"2.0\",\"id\":
 ```
 
 The genesis validators are also stored in the `genesis-validators.json` file.
+
+## Contract Addresses
+
+### Network: Goerli
+
+<a href='https://goerli.etherscan.io/address/0x42e9941432A29899d838464017c9ceB624dBb14E'>ERC20 Contract Address:</a> `0x42e9941432A29899d838464017c9ceB624dBb14E`
