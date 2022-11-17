@@ -88,7 +88,7 @@ async function main() {
     setTimeout(() => {
         clearInterval(timer)
         clearInterval(executeAutomation)
-    }, 10000)
+    }, 60000)
 
     automateProcess()
 }

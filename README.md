@@ -45,7 +45,7 @@ npm install npm@latest -g
 npx hardhat run scripts/getTokens.js
 ```
 
-    or with shorthand:
+or with shorthand
 
 ```sh
 hh run scripts/getTokens.js
@@ -59,7 +59,7 @@ Note that the data will be stored in the `fx-bridge-token-supply.json` file.
 npx hardhat run scripts/displayTokens.js
 ```
 
-    or with shorthand:
+or with shorthand
 
 ```sh
 hh run scripts/displayTokens.js
